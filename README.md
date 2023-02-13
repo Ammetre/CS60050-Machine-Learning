@@ -1,4 +1,3 @@
-To get the output, run the following commands:
-> python q1.py > q1_output.txt
-
-> python q2.py > q2_output.txt
+# CS60050-Machine-Learning
+## Sharannya Ghosh (20CS10054)
+## Aritra Mitra (20CS30006)
