@@ -1,4 +1,4 @@
-# CS60050-Machine-Learning
-## Group 21
-### Aritra Mitra (20CS30006)
-### Sharannya Ghosh (20CS10054)
+To get the output, run the following commands:
+> python q1.py > q1_output.txt
+
+> python q2.py > q2_output.txt
